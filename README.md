@@ -1,4 +1,4 @@
-!(pic.jpg)
+![alt uuuuiilk](https://github.com/qingketsing/CUMT_Network_app/blob/master/pic.jpg)<br />
 这是一个专属于矿大学子的一键网络登录app<br />
 请仔细阅读helper文档，并确保config文档输入正确<br />
 开发者个人界面http:www.qingke12138.xyz:5000<br />
